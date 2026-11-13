@@ -6,7 +6,7 @@
 
 <img width="100%" src="./assets/header.svg" alt="GUNDAM // full stack + offensive security" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF0033&center=true&vCenter=true&width=700&lines=%5B+root%40gundam+%5D%24+whoami;Full+Stack+Developer;Cybersecurity+%7C+Red+Team;I+build+it.+I+break+it.+I+secure+it." alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=FF0033&center=true&vCenter=true&width=700&lines=%5B+root%40gundam+%5D%24+whoami;Full+Stack+Developer;Cybersecurity+%7C+Red+Team;AI+Engineer+%7C+Claude+Expert;I+build+it.+I+break+it.+I+secure+it." alt="typing" />
 
 <a href="https://github.com/ElGundamPa"><img src="https://img.shields.io/github/followers/ElGundamPa?label=followers&style=for-the-badge&logo=github&color=FF0033&labelColor=0d0d0d" /></a>
 <a href="https://instagram.com/gundamsb"><img src="https://img.shields.io/badge/instagram-gundamsb-FF0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" /></a>
@@ -27,10 +27,11 @@
 ```yaml
 user:        Gundam (ElGundamPa)
 pronouns:    he/him
-role:        Full Stack Developer // Offensive Security
+role:        Full Stack Developer // Offensive Security // AI Engineer
 dev:         [ web apps, APIs, iOS apps, dashboards, automation ]
 security:    [ pentesting, web app security, network security, red team tooling ]
-approach:    secure-by-design — I build it, then I try to break it
+ai:          [ claude expert, AI agents, MCP servers, RAG, prompt engineering, AI-assisted security ]
+approach:    secure-by-design + AI-native — I build it with AI, then I try to break it
 currently:   building rootfury, netguard, shinra & byframe
 learning:    [ exploit development, cloud security, system design ]
 motto:       "Ship fast. Ship secure."
@@ -39,6 +40,40 @@ motto:       "Ship fast. Ship secure."
 <img width="100%" src="./assets/divider.svg" />
 
 ### `> ls ~/arsenal/`
+
+<details open>
+<summary><b>🤖 AI / LLM Engineering</b></summary>
+<br>
+
+![Claude](https://img.shields.io/badge/Claude-0d0d0d?style=for-the-badge&logo=claude&logoColor=FF0033)
+![Claude Code](https://img.shields.io/badge/Claude_Code-0d0d0d?style=for-the-badge&logo=claude&logoColor=FF0033)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=FF0033)
+![MCP](https://img.shields.io/badge/MCP-0d0d0d?style=for-the-badge&logo=modelcontextprotocol&logoColor=FF0033)
+![OpenAI](https://img.shields.io/badge/OpenAI-0d0d0d?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-0d0d0d?style=for-the-badge&logo=googlegemini&logoColor=FF0033)
+![Ollama](https://img.shields.io/badge/Ollama-0d0d0d?style=for-the-badge&logo=ollama&logoColor=FF0033)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d0d0d?style=for-the-badge&logo=huggingface&logoColor=FF0033)
+![LangChain](https://img.shields.io/badge/LangChain-0d0d0d?style=for-the-badge&logo=langchain&logoColor=FF0033)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-0d0d0d?style=for-the-badge&logo=vercel&logoColor=FF0033)
+
+```yaml
+claude:
+  - Claude Code como copiloto diario: agentes, subagentes, skills, hooks y workflows
+  - Anthropic API: tool use, streaming, prompt caching, structured outputs
+  - Model Context Protocol (MCP): servidores y conectores propios
+agents:
+  - Agentes autónomos con planificación, herramientas y verificación (ver shinra / TENSEI)
+  - Orquestación multi-agente y evaluación de resultados
+llm_engineering:
+  - Prompt engineering avanzado y system prompts
+  - RAG, embeddings y búsqueda semántica
+  - Modelos locales con Ollama para datos sensibles
+ai_security:
+  - Prompt injection, jailbreaks y red teaming de LLMs (OWASP Top 10 for LLM)
+  - Guardrails, sandboxing y control de alcance en agentes
+```
+
+</details>
 
 <details open>
 <summary><b>🎨 Frontend</b></summary>
@@ -133,7 +168,6 @@ motto:       "Ship fast. Ship secure."
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d0d0d?style=for-the-badge&logo=githubactions&logoColor=FF0033)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-0d0d0d?style=for-the-badge&logo=cloudflare&logoColor=FF0033)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=vscodium&logoColor=FF0033)
-![Claude](https://img.shields.io/badge/Claude_Code-0d0d0d?style=for-the-badge&logo=anthropic&logoColor=FF0033)
 
 </details>
 
