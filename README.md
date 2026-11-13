@@ -151,14 +151,25 @@ motto:       "Ship fast. Ship secure."
 
 ### `> ./projects --list`
 
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| 🔥 **[rootfury](https://github.com/ElGundamPa/rootfury)** | _Describe aquí rootfury (ej. framework de post-explotación / privesc)_ | `TypeScript` |
-| 🛡️ **[netguard](https://github.com/ElGundamPa/netguard)** | _Describe aquí netguard (ej. monitor / escáner de red)_ | `Python` |
-| ⚡ **[shinra](https://github.com/ElGundamPa/shinra)** | _Describe aquí shinra_ | `Python` |
-| 🖥️ **[Terminal](https://github.com/ElGundamPa/Terminal)** | _Describe aquí Terminal_ | `Swift` |
-| 🧩 **[byframe](https://github.com/ElGundamPa/byframe)** | _Describe aquí byframe (app web full stack)_ | `TypeScript` |
-| 📚 **[oturukistpedia](https://github.com/ElGundamPa/oturukistpedia)** | _Describe aquí oturukistpedia_ | `TypeScript` |
+| Proyecto | Descripción | Stack | Acceso |
+|---|---|---|---|
+| 🔥 **rootfury** | _Describe aquí rootfury (ej. framework de post-explotación / privesc)_ | `TypeScript` | 🔒 Privado |
+| 🛡️ **netguard** | _Describe aquí netguard (ej. monitor / escáner de red)_ | `Python` | 🔒 Privado |
+| ⚡ **shinra** | _Describe aquí shinra_ | `Python` | 🔒 Privado |
+| 🖥️ **Terminal** | _Describe aquí Terminal_ | `Swift` | 🔒 Privado |
+| 🧩 **[byframe](https://github.com/ElGundamPa/byframe)** | _Describe aquí byframe (app web full stack)_ | `TypeScript` | 🌐 Público |
+| 📚 **[oturukistpedia](https://github.com/ElGundamPa/oturukistpedia)** | _Describe aquí oturukistpedia_ | `TypeScript` | 🌐 Público |
+
+<div align="center">
+
+```diff
+- [ACCESS RESTRICTED] La mayoría de mis repositorios son privados.
++ ¿Quieres ver el código o colaborar? Contáctame y te doy acceso.
+```
+
+<a href="https://instagram.com/gundamsb"><img src="https://img.shields.io/badge/Pedir_acceso-Instagram_@gundamsb-FF0033?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" /></a>
+
+</div>
 
 <img width="100%" src="./assets/divider.svg" />
 
