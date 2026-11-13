@@ -177,17 +177,18 @@ motto:       "Ship fast. Ship secure."
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ElGundamPa&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF0033&icon_color=FF0033&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElGundamPa&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF0033&text_color=c9d1d9" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ElGundamPa&theme=github_dark" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ElGundamPa&theme=github_dark" />
 
 <img src="https://streak-stats.demolab.com?user=ElGundamPa&hide_border=true&background=0d0d0d&ring=FF0033&fire=FF0033&currStreakLabel=FF0033&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=333333" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ElGundamPa&bg_color=0d0d0d&color=c9d1d9&line=FF0033&point=ffffff&area=true&area_color=FF0033&hide_border=true&title_color=FF0033" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElGundamPa&theme=github_dark" />
 
 </div>
 
 <img width="100%" src="./assets/divider.svg" />
 
+<!-- Snake de contribuciones: descomentar cuando GitHub Actions funcione (cuenta con problema de billing)
 ### `> tail -f /var/log/contributions.log`
 
 <div align="center">
@@ -198,6 +199,7 @@ motto:       "Ship fast. Ship secure."
 </div>
 
 <img width="100%" src="./assets/divider.svg" />
+-->
 
 <div align="center">
 
