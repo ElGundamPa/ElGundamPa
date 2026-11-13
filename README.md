@@ -153,12 +153,12 @@ motto:       "Ship fast. Ship secure."
 
 | Proyecto | Descripción | Stack | Acceso |
 |---|---|---|---|
-| 🔥 **rootfury** | _Describe aquí rootfury (ej. framework de post-explotación / privesc)_ | `TypeScript` | 🔒 Privado |
-| 🛡️ **netguard** | _Describe aquí netguard (ej. monitor / escáner de red)_ | `Python` | 🔒 Privado |
-| ⚡ **shinra** | _Describe aquí shinra_ | `Python` | 🔒 Privado |
-| 🖥️ **Terminal** | _Describe aquí Terminal_ | `Swift` | 🔒 Privado |
-| 🧩 **[byframe](https://github.com/ElGundamPa/byframe)** | _Describe aquí byframe (app web full stack)_ | `TypeScript` | 🌐 Público |
-| 📚 **[oturukistpedia](https://github.com/ElGundamPa/oturukistpedia)** | _Describe aquí oturukistpedia_ | `TypeScript` | 🌐 Público |
+| ⚡ **shinra** | Framework de seguridad ofensiva con motor **TENSEI**: reconocimiento TCP/HTTP no destructivo, políticas de alcance, planificador adaptativo con agentes IA, evidencias persistentes e informes JSON/HTML. Probado contra OWASP Juice Shop en laboratorio Docker. | `Python` `Docker` `TUI` | 🔒 Privado |
+| 🛡️ **netguard** | Centro de operaciones (NOC) en terminal para Arch Linux: dashboard de 8 paneles con gráficas en vivo, descubrimiento de red autorizado con Nmap/ARP y monitoreo MikroTik REST de solo lectura. | `Python` `Textual` `Rich` `SQLite` | 🔒 Privado |
+| 🔥 **rootfury** · [demo](https://rootfury.vercel.app) | PWA para aprender ciberseguridad desde cero: redes, terminal Linux, defensa web, criptografía, pentesting ético, Python e IA, con lecciones, quizzes y retos en una terminal simulada. | `React` `Vite` `PWA` | 🔒 Privado |
+| 🎬 **[byframe](https://github.com/ElGundamPa/byframe)** · [demo](https://byframe.vercel.app) | Portafolio y panel de administración para una productora audiovisual: subida de video, streaming HLS/MP4, auth con Row Level Security y medios servidos desde Cloudflare R2. | `Next.js 15` `Supabase` `Tailwind` `Cloudflare R2` | 🌐 Público |
+| 🧵 **[oturukistpedia](https://github.com/ElGundamPa/oturukistpedia)** · [demo](https://oturukistpedia.vercel.app) | Enciclopedia textil tipo Wikipedia para diseñadoras de moda: catálogo de telas, combinador por textura/rigidez/caída y búsqueda global con <kbd>Ctrl</kbd>+<kbd>K</kbd>. | `Next.js` `React` `Tailwind` | 🌐 Público |
+| 📱 **Terminal** | Dashboard personal nativo para iPhone. | `Swift` `SwiftUI` | 🔒 Privado |
 
 <div align="center">
 
